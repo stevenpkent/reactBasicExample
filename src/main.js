@@ -21,6 +21,7 @@ var Authors = require('./components/authors/authorPage');
                     break;
                 default:
                     Child = Home;
+                    break;
             }
 
             return (
